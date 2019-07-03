@@ -5,7 +5,7 @@ temp=N
 while(temp!=0)and(N<=100000)
    sum=sum+((temp%10)**length)
    temp=temp//10
- if sum==N:
+if sum==N:
    print("yes")
- else:
+else:
    print("no")
