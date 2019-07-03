@@ -1,2 +1,2 @@
-h=input()
-print(h.count(" "))
+harsh=input()
+print(harsh.count(" "))
